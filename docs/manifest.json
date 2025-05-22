@@ -29,12 +29,14 @@
         {
             "src": "images/cheapo_ss_narrow.jpeg",
             "sizes": "640x1136",
-            "type": "image/jpeg"
+            "type": "image/jpeg",
+            "form_factor": "narrow"
         },
         {
             "src": "images/cheapo_ss_wide.png",
             "sizes": "1002x568",
-            "type": "image/png"
+            "type": "image/png",
+            "form_factor": "wide"
         }
     ]
 }
