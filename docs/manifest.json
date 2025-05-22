@@ -24,5 +24,17 @@
   "display": "fullscreen",
   "scope": "/",
   "theme_color": "#3367D6",
-  "description": "Landing page for nav tablet startup"
+    "description": "Landing page for nav tablet startup",
+    "screenshots": [
+        {
+            "src": "images/cheapo_ss_narrow.jpeg",
+            "sizes": "640x1136",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "images/cheapo_ss_wide.jpeg",
+            "sizes": "1002x568",
+            "type": "image/png"
+        }
+    ]
 }
